@@ -7,3 +7,6 @@ My AI efficiency playground
 - Agent & Workflow 自动化
 - 提效工具评测
 - 场景落地（原耗时 vs 现耗时）
+## 学习日志
+
+- 2026-11-03：配置好 Git 与 SSH 免密登录，完成首次 `clone` / `commit` / `push` 全流程。
